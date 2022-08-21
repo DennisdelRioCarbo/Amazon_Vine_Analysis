@@ -52,13 +52,13 @@ We accessed a dataset from the Amazon Review Datasets that contains reviews of v
 
 
 - What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
-- 
+ 
 **Percentage of 5 stars Vine reviews: 49%**
 
 ![image](https://user-images.githubusercontent.com/104289098/185772284-d24cd413-6175-4507-89f4-042fc5d490c0.png)
 
 
-**Percentage of 5 stars non Vine reviews: 39 **
+**Percentage of 5 stars non Vine reviews: 39**
 
 ![image](https://user-images.githubusercontent.com/104289098/185772296-b1bd5282-521c-4d2b-b252-90fb8744b280.png)
 
