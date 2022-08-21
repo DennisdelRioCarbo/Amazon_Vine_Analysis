@@ -1,5 +1,7 @@
-# Delivarable 1.Queries for populated tables in PGAdmin.
-**customers_table
+# Deliverable 1. 
+**Queries for populated tables in PGAdmin.**
+
+**customers_table**
 
 ![customers_table](https://user-images.githubusercontent.com/104289098/185771934-44e7283c-9bca-48b6-a1a6-a5744df2a008.png)
 
